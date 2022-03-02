@@ -8,7 +8,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=handrianalandi&theme=algolia"/></p>
 
 
 ## 🛠️ My Skills
