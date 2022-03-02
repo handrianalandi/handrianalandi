@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=3rd+Year+Informatics+Student;Web+Developer;Based+on+Surabaya,+Indonesia&center=true&width=500&height=50"></a>
 </p>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 <h4 align="center">I am a 3rd Year Hardworking College Student on Computer Science degree.I am able to work independently in busy environments and also within a team setting. I am a hardworking person who is always willing to learn new things and improve my skills. Committed to utilize my knowledge and skill to further works and projects.</h4>
 <br>
 
@@ -18,19 +19,19 @@
 <p align="left"> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   </a>
   &emsp;
   <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://developer.android.com/kotlin">
@@ -44,15 +45,15 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
    &emsp;
   <a href="https://jquery.com/" target="_blank"> 
@@ -68,9 +69,9 @@
 ### 👉 Databases
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a> 
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a> 
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
  </p>
   
 
@@ -88,14 +89,12 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Handrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=handrianalandi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=handrianalandi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="handrianalandi" height="192px"/>
   <br/>
@@ -109,8 +108,14 @@
 	<a href="https://www.linkedin.com/in/handrianalandi/"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"/></a>
 	<a href="https://instagram.com/handrianalandi"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"/></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<hr/>
+
+<h1 align="center">See you on further projects!😄</h1>
+<p align="center">
+<a align="center" href="https://tenor.com/view/bye-waving-goodbye-little-rascals-see-you-gif-16261518"><img src="https://c.tenor.com/bd2kfX8aN58AAAAC/bye-waving.gif"></a>
+</p>
+
 
 * Template Credit: [Candida18](https://github.com/Candida18)
 
