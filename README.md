@@ -41,8 +41,6 @@
   <a href="https://dart.dev/">
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
-
-	
 </p>
 
 ### 👉 Frontend / Backend Development
@@ -56,22 +54,31 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
    &emsp;
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  
+</p>
+
+### 👉 Frameworks
+
+<p align="left"> 
+  &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
-   &emsp;
-  <a href="https://jquery.com/" target="_blank"> 
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  &emsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank"> 
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   </a>
   &emsp; 
   <a href="https://nodejs.org/en/" target="_blank"> 
    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   </a> 
-
+  &emsp;
+  <a href="https://jquery.com/" target="_blank"> 
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Databases
