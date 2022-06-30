@@ -119,7 +119,6 @@
 ## 🙋‍♂️ Let's Connect
 <p align="center">
 	<a href="mailto:handrianalandi@gmail.com"><img src="https://img.icons8.com/windows/32/ffffff/gmail-new.png"/></a>
-	<a href="https://github.com/handrianalandi"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/></a>
 	<a href="https://www.linkedin.com/in/handrianalandi/"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png"/></a>
 	<a href="https://instagram.com/handrianalandi"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"/></a>
 </p>
