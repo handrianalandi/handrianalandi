@@ -1,11 +1,11 @@
 
 <h1 align="center">Hello , I'm Handrian Alandi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=3rd+Year+Informatics+Student;Web+Developer;Based+on+Surabaya,+Indonesia&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bachelor+of+Informatics;Web+Developer;Based+on+Surabaya,+Indonesia&center=true&width=500&height=50"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h4 align="center">I am a 3rd Year College Student on Computer Science degree.I am able to work independently in busy environments and also within a team setting. I am a hardworking person who is always willing to learn new things and improve my skills. Committed to utilize my knowledge and skill to further works and projects.</h4>
+<h4 align="center">I am a Bachelor on Informatics degree.I am able to work independently in busy environments and also within a team setting. I am a hardworking person who is always willing to learn new things and improve my skills. Committed to utilize my knowledge and skill to further works and projects.</h4>
 <br>
 
 ## 🔥 Streak Stats
@@ -41,6 +41,10 @@
   <a href="https://dart.dev/">
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://dart.dev/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Frontend / Backend Development
@@ -57,7 +61,10 @@
   <a href="https://flutter.dev/" target="_blank"> 
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   </a>
-  
+   &emsp;
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Frameworks
@@ -79,6 +86,18 @@
   <a href="https://jquery.com/" target="_blank"> 
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://react.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://laravel.com/" target="_blank"> 
+    <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Databases
@@ -94,12 +113,17 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://about.gitlab.com/"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   &emsp;
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+
 </p>
 
 <br/>
