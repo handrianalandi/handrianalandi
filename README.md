@@ -5,7 +5,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h4 align="center">I am a Bachelor on Informatics degree.I am able to work independently in busy environments and also within a team setting. I am a hardworking person who is always willing to learn new things and improve my skills. Committed to utilize my knowledge and skill to further works and projects.</h4>
+<h4 align="center">I am a Bachelor on Informatics degree. I am able to work independently in busy environments and also within a team setting. I am a hardworking person who is always willing to learn new things and improve my skills. Committed to utilize my knowledge and skill to further works and projects.</h4>
 <br>
 
 ## 🔥 Streak Stats
