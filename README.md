@@ -8,10 +8,6 @@
 <h4 align="center">I am a Bachelor on Informatics degree. I am able to work independently in busy environments and also within a team setting. I am a hardworking person who is always willing to learn new things and improve my skills. Committed to utilize my knowledge and skill to further works and projects.</h4>
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=handrianalandi&theme=algolia"/></p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -129,15 +125,11 @@
 <br/>
 
 ## 📊 Github Stats
-
-
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Handrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=handrianalandi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=handrianalandi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="handrianalandi" height="192px"/>
-  <br/>
-  </p>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=handrianalandi&theme=algolia"/> &emsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=handrianalandi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="handrianalandi" height="192px"/>
+</p>
 <br/>
 
 ## 🙋‍♂️ Let's Connect
